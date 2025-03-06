@@ -1,3 +1,6 @@
 hello babu
+<<<<<<< HEAD
 yess
 no
+=======
+>>>>>>> 266a152bba811b1c60b81bc72748d4a3f3c9d6e2
